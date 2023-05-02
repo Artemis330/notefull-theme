@@ -73,7 +73,3 @@ const FITS = {
 2. Support series post
 
 <br />
-
-# LICENSE
-
-[MIT](./LICENSE)
